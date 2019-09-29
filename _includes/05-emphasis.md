@@ -9,4 +9,4 @@ __This will also be bold__
 _You **can** combine them_
 
 
-**The __copy__ and __paste__ tools are wonderful**
+**The _copy_ and _paste_ tools are wonderful**
