@@ -7,7 +7,7 @@ test of emoji
 :+1:
 :smile:
 :evergreen_tree:
-:palm_tree
+:palm_tree:
 
 
 test of orderd lists
